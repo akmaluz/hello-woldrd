@@ -1,2 +1,2 @@
-# hello-woldrd
+# hello-woldld
 Ok.ru video Uploader bot
